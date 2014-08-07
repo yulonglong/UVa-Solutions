@@ -1,4 +1,6 @@
-#include<cstdio>
+//Steven Kester Yuwono - UVa 10469
+
+#include <cstdio>
 using namespace std;
 
 int main() {

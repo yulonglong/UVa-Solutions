@@ -1,4 +1,5 @@
-//uva 389
+//Steven Kester Yuwono - UVa 389
+
 import java.io.*;
 import java.util.*;
 import java.math.*;

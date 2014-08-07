@@ -1,4 +1,4 @@
-//uva 11072
+//Steven Kester Yuwono - UVa 11072
 
 #include <algorithm>
 #include <cstdio>

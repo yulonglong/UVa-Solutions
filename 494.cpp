@@ -1,3 +1,5 @@
+//Steven Kester Yuwono - UVa 494
+
 #include <iostream>
 #include <string>
 

@@ -1,4 +1,4 @@
-//10443 - Rock
+//Steven Kester Yuwono - UVa 10443 - Rock
 
 #include <iostream>
 using namespace std;

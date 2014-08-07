@@ -1,4 +1,4 @@
-//608 - Counterfeit Dollar
+//Steven Kester Yuwono - UVa 608 - Counterfeit Dollar
 
 #include <iostream>
 #include <string>

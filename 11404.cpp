@@ -1,4 +1,4 @@
-//uva 11404
+//Steven Kester Yuwono - UVa 11404
 #include <bits/stdc++.h>
 #define MAXN 1010
 using namespace std;

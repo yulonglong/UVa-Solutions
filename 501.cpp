@@ -1,3 +1,5 @@
+//Steven Kester Yuwono - UVa 501
+
 #include <cstdio>
 #include <iostream>
 #include <vector>

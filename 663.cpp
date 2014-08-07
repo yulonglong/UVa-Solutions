@@ -1,4 +1,5 @@
-//uva 663
+//Steven Kester Yuwono - UVa 663
+
 #include <bits/stdc++.h>
 #define MAX_V 100
 #define MAX 100

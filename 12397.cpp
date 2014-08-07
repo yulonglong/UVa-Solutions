@@ -1,5 +1,4 @@
-//uva 12397
-// Roman Numerals
+//Steven Kester Yuwono - UVa 12397 Roman Numerals
 
 #include <cstdio>
 #include <iostream>

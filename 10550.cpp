@@ -1,4 +1,4 @@
-//10550 - Combination Lock
+//Steven Kester Yuwono - UVa 10550 - Combination Lock
 
 #include <iostream>
 using namespace std;

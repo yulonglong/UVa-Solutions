@@ -1,4 +1,4 @@
-//579 - ClockHands
+//Steven Kester Yuwono - UVa 579 - ClockHands
 
 #include <iostream>
 #include <iomanip>

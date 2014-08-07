@@ -1,4 +1,4 @@
-//10963 - The Swallowing Ground
+//Steven Kester Yuwono - UVa 10963 - The Swallowing Ground
 
 #include <iostream>
 using namespace std;

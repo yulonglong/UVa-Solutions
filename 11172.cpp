@@ -1,4 +1,4 @@
-//11172 - Relational Operators
+//Steven Kester Yuwono - UVa 11172 - Relational Operators
 
 #include <iostream>
 using namespace std;

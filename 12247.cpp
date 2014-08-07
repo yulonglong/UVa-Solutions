@@ -1,4 +1,4 @@
-// 12247 - Jollo
+//Steven Kester Yuwono - UVa 12247 - Jollo
 
 #include <algorithm>
 #include <iostream>

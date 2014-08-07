@@ -1,3 +1,5 @@
+//Steven Kester Yuwono - UVa 113
+
 #include <cstdio>
 #include <cmath>
 using namespace std;

@@ -1,3 +1,5 @@
+//Steven Kester Yuwono - UVa 12646
+
 #include <iostream>
 #include <string>
 using namespace std;

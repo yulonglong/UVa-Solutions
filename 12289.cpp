@@ -1,4 +1,4 @@
-//12289 - One-Two-Three
+//Steven Kester Yuwono - UVa 12289 - One-Two-Three
 
 #include <iostream>
 using namespace std;

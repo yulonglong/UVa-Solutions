@@ -1,4 +1,4 @@
-//10141 request for proposal
+//Steven Kester Yuwono - UVa 10141 request for proposal
 
 #include <iostream>
 using namespace std;

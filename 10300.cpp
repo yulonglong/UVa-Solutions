@@ -1,4 +1,4 @@
-//10300 - Ecological Premium
+//Steven Kester Yuwono - UVa 10300 - Ecological Premium
 
 #include <iostream>
 using namespace std;

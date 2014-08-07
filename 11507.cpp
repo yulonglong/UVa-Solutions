@@ -1,4 +1,4 @@
-//11507 - Bender B. Rodríguez Problem
+//Steven Kester Yuwono - UVa 11507 - Bender B. Rodríguez Problem
 
 #include <iostream>
 #include <string>

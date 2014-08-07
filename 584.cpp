@@ -1,4 +1,4 @@
-//584 - Bowling
+//Steven Kester Yuwono - UVa 584 - Bowling
 
 #include <iostream>
 #include <sstream>

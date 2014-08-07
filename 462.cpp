@@ -1,4 +1,4 @@
-//462 - Bridge Hand Evaluator
+//Steven Kester Yuwono - UVa 462 - Bridge Hand Evaluator
 
 #include <iostream>
 #include <string>

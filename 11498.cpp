@@ -1,4 +1,4 @@
-//11498 - Division of Nlogonia
+//Steven Kester Yuwono - UVa 11498 - Division of Nlogonia
 
 #include <iostream>
 #include <string>

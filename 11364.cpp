@@ -1,4 +1,4 @@
-//11364 - Parking
+//Steven Kester Yuwono - UVa 11364 - Parking
 
 #include <iostream>
 using namespace std;

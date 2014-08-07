@@ -1,4 +1,4 @@
-//11727 - Cost Cutting
+//Steven Kester Yuwono - UVa 11727 - Cost Cutting
 
 #include <iostream>
 using namespace std;

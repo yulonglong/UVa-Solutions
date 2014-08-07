@@ -1,4 +1,5 @@
-//uva 494
+//Steven Kester Yuwono - UVa 494
+
 import java.util.Scanner;
 import java.util.regex.*;
 

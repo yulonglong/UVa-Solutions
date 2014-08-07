@@ -1,3 +1,6 @@
+//Steven Kester Yuwono - UVa 12366
+
+
 #include <cstdio>
 #include <algorithm>
 using namespace std;

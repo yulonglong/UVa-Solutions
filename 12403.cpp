@@ -1,4 +1,4 @@
-//12403 - Save Setu
+//Steven Kester Yuwono - UVa 12403 - Save Setu
 
 #include <iostream>
 #include <cstdlib>

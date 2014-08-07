@@ -1,4 +1,4 @@
-//1061 - Consanguine Calculations
+//Steven Kester Yuwono - UVa 1061 - Consanguine Calculations
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,4 @@
-//489 - Hangman Judge
+//Steven Kester Yuwono - UVa 489 - Hangman Judge
 
 #include <iostream>
 #include <sstream>

@@ -1,4 +1,4 @@
-//696 - How Many Knights
+//Steven Kester Yuwono - UVa 696 - How Many Knights
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,5 @@
-//uva 10282
+//Steven Kester Yuwono - UVa 10282
+
 #include <bits/stdc++.h>
 using namespace std;
 

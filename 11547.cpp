@@ -1,4 +1,4 @@
-//11547 - Automatic Answer
+//Steven Kester Yuwono - UVa 11547 - Automatic Answer
 
 #include <iostream>
 using namespace std;

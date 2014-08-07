@@ -1,4 +1,4 @@
-//11332 - Summing Digits
+//Steven Kester Yuwono - UVa 11332 - Summing Digits
 
 #include <iostream>
 using namespace std;

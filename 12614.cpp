@@ -1,4 +1,4 @@
-//12614 - Earn For Future
+//Steven Kester Yuwono - UVa 12614 - Earn For Future
 
 #include <cstdio>
 using namespace std;

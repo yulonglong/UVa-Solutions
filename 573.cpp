@@ -1,4 +1,4 @@
-//573 - The Snail
+//Steven Kester Yuwono - UVa 573 - The Snail
 
 #include <iostream>
 using namespace std;

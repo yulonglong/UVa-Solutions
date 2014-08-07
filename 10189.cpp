@@ -1,4 +1,4 @@
-//10189 - Minesweeper
+//Steven Kester Yuwono - UVa 10189 - Minesweeper
 
 #include <iostream>
 using namespace std;

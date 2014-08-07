@@ -1,4 +1,4 @@
-//11221 - Magic square palindromes.
+//Steven Kester Yuwono - UVa 11221 - Magic square palindromes.
 
 #include <iostream>
 #include <cmath>

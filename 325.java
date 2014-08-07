@@ -1,4 +1,5 @@
-//uva 325
+//Steven Kester Yuwono - UVa 325
+
 import java.util.Scanner;
 import java.util.regex.*;
 

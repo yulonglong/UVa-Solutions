@@ -1,4 +1,4 @@
-//12696
+//Steven Kester Y - UVa 12696
 
 #include <cstdio>
 using namespace std;

@@ -1,4 +1,4 @@
-//11459 - Snakes and Ladders
+//Steven Kester Yuwono - UVa 11459 - Snakes and Ladders
 
 #include <iostream>
 using namespace std;

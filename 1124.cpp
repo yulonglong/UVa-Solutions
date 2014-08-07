@@ -1,4 +1,4 @@
-//1124 - Celebrity jeopardy
+//Steven Kester Yuwono - UVa 1124 - Celebrity jeopardy
 
 #include <iostream>
 using namespace std;

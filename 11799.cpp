@@ -1,4 +1,4 @@
-//11799 horror dash
+//Steven Kester Yuwono - UVa 11799 horror dash
 
 #include <iostream>
 #include <sstream>

@@ -1,4 +1,4 @@
-//10038 - Jolly Jumpers
+//Steven Kester Yuwono - UVa 10038 - Jolly Jumpers
 
 #include <cstdio>
 using namespace std;

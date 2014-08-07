@@ -1,4 +1,4 @@
-//12279 - Emoogle Balance
+//Steven Kester Yuwono - UVa 12279 - Emoogle Balance
 
 #include <iostream>
 using namespace std;

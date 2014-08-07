@@ -1,4 +1,4 @@
-//12372 - Packing for Holiday
+//Steven Kester Yuwono - UVa 12372 - Packing for Holiday
 
 #include <iostream>
 using namespace std;

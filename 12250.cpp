@@ -1,4 +1,4 @@
-//12250 - Language Detection
+//Steven Kester Yuwono - UVa 12250 - Language Detection
 
 #include <iostream>
 #include <string>

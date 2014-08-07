@@ -1,4 +1,4 @@
-//12468 Zapping
+//Steven Kester Yuwono - UVa 12468 Zapping
 
 #include <iostream>
 using namespace std;

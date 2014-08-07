@@ -1,3 +1,5 @@
+//Steven Kester Yuwono - UVa 1062
+
 #include <iostream>
 #include <vector>
 #include <stack>

@@ -1,4 +1,4 @@
-//uva 11176
+//Steven Kester Yuwono - UVa 11176
 #include <bits/stdc++.h>
 #define MAX 510
 using namespace std;

@@ -1,4 +1,4 @@
-//637 - Booklet Printing
+//Steven Kester Yuwono - UVa 637 - Booklet Printing
 
 #include <iostream>
 using namespace std;

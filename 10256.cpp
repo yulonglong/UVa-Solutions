@@ -1,4 +1,4 @@
-//uva 10256
+//Steven Kester Yuwono - UVa 10256
 
 #include <algorithm>
 #include <iostream>

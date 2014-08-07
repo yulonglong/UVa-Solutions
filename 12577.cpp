@@ -1,4 +1,4 @@
-//12577 - Hajj-e-Akbar
+//Steven Kester Yuwono - UVa 12577 - Hajj-e-Akbar
 
 #include <iostream>
 using namespace std;

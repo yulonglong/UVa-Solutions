@@ -1,4 +1,5 @@
-//uva 11551
+//Steven Kester Yuwono - UVa 10551
+
 import java.util.Scanner;
 import java.math.BigInteger;
 

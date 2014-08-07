@@ -1,4 +1,4 @@
-//uva 12708
+//Steven Kester Y - UVa 12708
 #include <iostream>
 using namespace std;
 typedef unsigned long long ull;

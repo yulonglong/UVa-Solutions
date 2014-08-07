@@ -1,4 +1,4 @@
-//11044 - Searching for Nessy
+//Steven Kester Yuwono - UVa 11044 - Searching for Nessy
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,4 @@
-//uva 12626
+//Steven Kester Yuwono - UVa 12626
 #include <bits/stdc++.h>
 using namespace std;
 

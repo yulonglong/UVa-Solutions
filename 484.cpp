@@ -1,4 +1,5 @@
-//uva 484
+//Steven Kester Yuwono - UVa 484
+
 #include <bits/stdc++.h>
 #define max 1000002
 #define max2 2000004

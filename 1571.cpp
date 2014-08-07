@@ -1,4 +1,4 @@
-//uva 1571 classic art gallery problem
+//Steven Kester Yuwono - UVa 1571 classic art gallery problem
 
 #include <algorithm>
 #include <cstdio>

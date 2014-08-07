@@ -1,4 +1,4 @@
-//11559 - Event Planning
+//Steven Kester Yuwono - UVa 11559 - Event Planning
 
 #include <iostream>
 using namespace std;

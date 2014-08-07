@@ -1,4 +1,4 @@
-//uva 1449
+//Steven Kester Yuwono - UVa 1449
 
 #include <cstdio>
 #include <iostream>

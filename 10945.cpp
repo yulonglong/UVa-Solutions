@@ -1,4 +1,4 @@
-//10945 - Mother bear
+//Steven Kester Yuwono - UVa 10945 - Mother bear
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,4 @@
-//10646 - What is the Card?
+//Steven Kester Yuwono - UVa 10646 - What is the Card?
 
 #include <iostream>
 #include <string>

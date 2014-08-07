@@ -1,4 +1,4 @@
-//uva 12611
+//Steven Kester Yuwono - UVa 12611
 
 #include <cstdio>
 using namespace std;

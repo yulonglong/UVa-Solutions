@@ -1,4 +1,4 @@
-//621 - Secret Research
+//Steven Kester Yuwono - UVa 621 - Secret Research
 
 #include <iostream>
 using namespace std;

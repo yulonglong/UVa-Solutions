@@ -1,4 +1,4 @@
-//10812 - Beat the Spread!
+//Steven Kester Yuwono - UVa 10812 - Beat the Spread!
 
 #include <iostream>
 using namespace std;

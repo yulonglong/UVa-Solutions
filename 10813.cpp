@@ -1,4 +1,4 @@
-//10813 - Traditional BINGO
+//Steven Kester Yuwono - UVa 10813 - Traditional BINGO
 
 #include <iostream>
 using namespace std;

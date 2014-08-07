@@ -1,4 +1,4 @@
-//uva 12665
+//Steven Kester Y - UVa 12665
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,4 +1,4 @@
-//12455
+//Steven Kester Yuwono - UVa 12455
 
 #include <cstdio>
 #include <algorithm>

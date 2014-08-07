@@ -1,4 +1,4 @@
-//11679 - Sub-prime
+//Steven Kester Yuwono - UVa 11679 - Sub-prime
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,4 @@
-//uva 760
+//Steven Kester Yuwono - UVa 760
 
 #include <algorithm>
 #include <string>
