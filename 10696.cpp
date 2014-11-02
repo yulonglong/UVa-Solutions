@@ -15,12 +15,10 @@ int f91(int N){
 	if(N<=100){
 		return memo[N] = f91(f91(N+11));
 	}
-	else{
-		return memo[N] = N-10;
-	}
+	return memo[N] = N-10;
 }
 
-int init(){
+void init(){
 	memset(memo,-1,sizeof(memo));
 	for(int i=0;i<=1000010;i++){
 		if(memo[i]==-1){
