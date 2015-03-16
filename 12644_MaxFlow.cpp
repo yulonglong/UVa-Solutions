@@ -1,4 +1,6 @@
-//Steven Kester Yuwono - UVa 12644
+// Steven Kester Yuwono - UVa 12644
+// MCBM using Max Flow - EdmondKarp
+
 #include <bits/stdc++.h>
 #define MAX_V 1010
 #define INF 2000000000
