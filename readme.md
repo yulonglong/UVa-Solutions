@@ -5,6 +5,7 @@ Solutions are written with the help of Competitive Programming 3 Book by Dr. Ste
 
 My UVa statistics: http://uhunt.felix-halim.net/id/229679
 
-Contributions to uDebug:
+Contributions to uDebug (http://www.udebug.com/):
 - 1571
+- 1605
 - 10387
