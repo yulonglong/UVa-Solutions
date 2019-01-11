@@ -1,88 +1,60 @@
-//Steven Kester Yuwono - UVa 11517
+// Steven Kester Yuwono - UVa 11517
+// DP
 
-#include <iostream>
-#include <cstdio>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
+#define MAX 101
+#define MAX2 10010
+#define INF 2e9
+typedef pair<int, int> ii;
 
-typedef struct{
-    int x;
-    int y;
-}pari;
+int n, bill, coins[MAX], memo[MAX][MAX2];
 
-int memo[110][10050];
-int cal[110];
-vector<pari> result;
+ii bottomUpDp() {
+	memset(memo,-1,sizeof(memo));
+	memo[0][bill] = 0;
+	for (int i = 1; i <= n; i++) {
+		for (int j = bill; j >= 0; j--) {
+			// if previous state with remaining amount j is possible
+			if (memo[i - 1][j] >= 0) {
+				// Dont use current coin
+				if (memo[i][j] == -1) memo[i][j] = memo[i-1][j];
+				else memo[i][j] = min(memo[i][j], memo[i - 1][j]);
+				// Use current coin
+				int nextRemaining = j - coins[i];
+				int nextCoinCount = memo[i - 1][j] + 1;
+				if (nextRemaining < 0) {
+					nextCoinCount += nextRemaining * -100000;
+					nextRemaining = 0;
+				}
+				if (memo[i][nextRemaining] == -1) memo[i][nextRemaining] = nextCoinCount;
+				else memo[i][nextRemaining] = min(memo[i][nextRemaining], nextCoinCount);
+			}
+		}
+	}
 
-pari dp(int n,int remaining){
-    for(int step=1;step<=n;step++){
-        for(int j=1;j<10050;j++){
-            if(memo[step-1][j]>0){
-                memo[step][j]=memo[step-1][j];
-                //cout << "step " << step << endl;
-                //cout << remaining << endl;
-                remaining=j;
-                if(cal[step]<remaining){
-                    memo[step][remaining-cal[step]]=memo[step-1][j]+1;
-                }
-                else{
-                    int tempy=memo[step-1][j]+1;
-                    int tempx=remaining-cal[step];
-                    pari newpair;
-                    newpair.x=tempx;
-                    newpair.y=tempy;
-                    result.push_back(newpair);
-                }
-            }
-        }
-    }
-    int minx=-2000000000;
-    int miny=2000000000;
-    int x,y;
-    for(unsigned int i=0;i<result.size();i++){
-        x=result[i].x;
-        y=result[i].y;
-        if(minx<x){
-            minx=x;
-            miny=y;
-        }
-        else if(minx==x){
-            if(miny>y){
-                miny=y;
-            }
-        }
-    }
-    
-    pari newpair;
-    newpair.x=minx;
-    newpair.y=miny;
-    result.clear();
-    return newpair;
+	// This is just assert
+	if (memo[n][0] >= 0) {
+		if (memo[n][0] >= 100000) {
+			int coinCount = memo[n][0] % 1000;
+			int diff = memo[n][0] / 100000;
+			return ii(diff, coinCount);
+		} else {
+			return ii(0, memo[n][0]);
+		}
+	}
+	// should never be reached
+	return ii(0, 0);
 }
 
-int main(){
-    int tc;
-    scanf("%d",&tc);
-    while(tc--){
-        for(int i=0;i<110;i++){
-            for(int j=0;j<10050;j++){
-                memo[i][j]=-1;
-            }
-        }
-        int expected;
-        scanf("%d",&expected);
-        int n;
-        scanf("%d",&n);
-        for(int i=1;i<=n;i++){
-            scanf("%d",&cal[i]);
-        }
-        memo[0][expected]=1;
-        
-        
-        pari result=dp(n,expected);
-        printf("%d %d\n",expected-result.x,result.y-1);
-        
-    }
-    return 0;
+int main() {
+	int tc;
+	cin >> tc;
+	while (tc--) {
+		cin >> bill; cin >> n;
+		for (int i = 1; i <= n; i++) cin >> coins[i];
+		ii ans = bottomUpDp();
+		cout << bill + ans.first << " " << ans.second << endl;
+	}
+	return 0;
 }
